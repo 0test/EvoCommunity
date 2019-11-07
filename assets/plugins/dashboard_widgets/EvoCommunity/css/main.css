@@ -1,0 +1,21 @@
+.evo-news-list i{color:#646b7b; margin-right:0.4rem;}
+
+.evo-news-yt a:hover i{color: #e51818;}
+.evo-news-telegram1 a:hover i{color: #4f99c4;}
+.evo-news-telegram2 a:hover i{color: #4f99c4;}
+.evo-news-vk a:hover i{color: #3e83ab;}
+.evo-news-evoim a:hover i{color: #646b7b;}
+.evo-news-modxim a:hover i{color: black;}
+.evo-news-docs a:hover i{color: #646b7b;}
+.evo-news-list{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	justify-content: space-between;
+}
+
+.evo-news-list li{margin: 0.5rem 0rem;white-space:nowrap;}
+
+
+.evo-news-list a{ margin-left:0.2rem;     color: #646b7b; font-size: .7rem;
+    word-wrap: normal;}
